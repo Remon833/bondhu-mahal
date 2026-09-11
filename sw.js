@@ -1,6 +1,6 @@
 const CACHE_NAME = 'bondhumohol-cache-v1';
 const FILES_TO_CACHE = [
-  './BondhuMohol_V-02.html',
+  './index.html',
   './manifest.json',
   './icon-192.png',
   './icon-512.png'
