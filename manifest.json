@@ -1,7 +1,7 @@
 {
   "name": "বন্ধু মহল সমবায় সমিতি",
   "short_name": "বন্ধু মহল",
-  "start_url": "./BondhuMohol_V-02.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#3b0764",
